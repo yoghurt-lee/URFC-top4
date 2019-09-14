@@ -15,7 +15,6 @@
 ### 相关链接
 解决方案的详细介绍：  https://zhuanlan.zhihu.com/p/82410926  
 决赛答辩PPT：  https://pan.baidu.com/s/1zx5o_O0KVP-q8fadXI6ZOw     &#8195;&#8195;提取码：zp3p  
-竞赛故事：  https://blog.csdn.net/destiny19960207/article/details/100693799
 
 ### packages
 lightgbm>=2.2.3  
